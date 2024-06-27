@@ -8,6 +8,7 @@ Dal Rice
 A simple and delicious recipe for Dal Rice.
 
 Ingredients
+
 Olive Oil
 Cumin Seeds
 Red Chillies or Flakes
